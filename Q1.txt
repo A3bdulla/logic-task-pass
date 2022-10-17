@@ -1,0 +1,8 @@
+st="i will remove the i in string"
+st2=st[:26] + st[28:]
+print(20*"_")
+print(st2)
+
+
+____________________
+i will remove the i in strg

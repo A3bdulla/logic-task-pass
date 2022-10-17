@@ -1,0 +1,18 @@
+x=range(1,20)
+print(20*"_")
+for i in x:
+    if i%2 == 0:
+        continue
+    if i%3==0:
+        continue
+    else:
+        print(i)
+
+
+____________________
+5
+7
+11
+13
+17
+19
